@@ -1,4 +1,3 @@
-const demoProperties = [
   {
     "id": "1",
     "title": "فيلا دورين ونصف",
@@ -199,7 +198,3 @@ const demoProperties = [
     "imageUrls": "https://i.ibb.co/CBQXcC1/image-1.png",
     "userRef": "user10"
   }
-];
-
-export default demoProperties;
-
